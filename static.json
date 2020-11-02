@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "2811_hse_001"
+      "X-Author": "2811_hse_001",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
